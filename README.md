@@ -3,9 +3,9 @@
 <b>Aluno:</b> Raphael Felipe do Vale Lucena.<br>
 <b>Orientador:</b> Prof. Francisco das Chagas Imperes Filho.<br>
 
-(Atualizado em <b>13/11/2019 ás 16:46</b>)<br>
-Clique <a href="https://github.com/Rouem/TheWanderer-TCC-/raw/master/TheWanderer.alphaDemo.apk">aqui</a> para baixar o jogo!<br>
-<b>O formulário está dentro do jogo!</>
+
+Clique <a href="https://github.com/Rouem/TheWanderer-TCC-/raw/master/TheWanderer.alphaDemo.apk">aqui</a> para baixar o jogo!(Data de atualização: <b>13/11/2019 ás 16:46</b>)<br>
+<b>O formulário está dentro do jogo!</b>
 
 The Wanderer é um exergame com características de Action RPG, desenvolvido para a disciplina de 
 Trabalho de Conclusão de Curso III, do Curso de Sistemas de Informação.
