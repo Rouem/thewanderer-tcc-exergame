@@ -1,7 +1,7 @@
 <h1>THE WANDERER</h1><br><br>
 
 <b>Aluno:</b> Raphael Felipe do Vale Lucena.<br>
-<b>Orientador:</b> Prof. Francisco das Chagas Imperes Filho.<br> <br>
+<b>Orientador:</b> Prof. Francisco das Chagas Imperes Filho.<br>
 
 <a href="https://forms.gle/9VgjmxmRb2dHx7YE9">Questionário do jogo.</a>
 
@@ -9,13 +9,13 @@ The Wanderer é um exergame com características de Action RPG, desenvolvido par
 Trabalho de Conclusão de Curso III, do Curso de Sistemas de Informação.
 
 <h3>IMAGENS:</h3><br>
-<div style="display: grid; grid-column-gap: 50px;">
-<img source="imagens/Screenshot_2019-11-12-14-11-07.png" />
-<img source="imagens/Screenshot_2019-11-12-14-11-14.png" />
-<img source="imagens/Screenshot_2019-11-12-16-11-46.png" />
-<img source="imagens/Screenshot_2019-11-12-16-13-11.png" />
-<img source="imagens/Screenshot_2019-11-12-16-19-01.png" />
+<div style="display: inline-grid;">
+<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Screenshot_2019-11-12-14-11-07.png" width="200" height="400" />
+<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Screenshot_2019-11-12-14-11-14.png" width="200" height="400" />
+<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Screenshot_2019-11-12-16-11-46.png" width="200" height="400" />
+<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Screenshot_2019-11-12-16-13-11.png" width="200" height="400" />
 </div>
+
 <b>CONTEXTO:</b> Uma pesquisa da Universidade de Tóquio mostrou que o Pokémon GO fez grande sucesso por usar mecânicas inovadoras em sua jogabilidade que contribuíram para diminuição de fatores como depressão, fobias sociais e o sedentarismo1. O uso de jogos 
 eletrônicos na área da saúde vem ganhando destaque por sua empregabilidade em diversas situações. No cenário citado, a busca 
 por pokemons pela cidade, levaram as pessoas a saírem de casa, a socializarem-se, praticar caminhadas, se exercitarem, enfim 
