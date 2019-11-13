@@ -1,4 +1,4 @@
-<h1>THE WANDERER</h1><br><br>
+<h1>THE WANDERER (Exergame)</h1><br><br>
 
 <b>Aluno:</b> Raphael Felipe do Vale Lucena.<br>
 <b>Orientador:</b> Prof. Francisco das Chagas Imperes Filho.<br>
