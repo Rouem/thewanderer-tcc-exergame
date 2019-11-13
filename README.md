@@ -3,6 +3,8 @@
 <b>Aluno:</b> Raphael Felipe do Vale Lucena.<br>
 <b>Orientador:</b> Prof. Francisco das Chagas Imperes Filho.<br>
 
+Clique <a href="https://github.com/Rouem/TheWanderer-TCC-/raw/master/TheWanderer.alphaDemo.apk">aqui</a> ou
+<a href="https://drive.google.com/file/d/1zQyW99cyOpHpISsoPjQP38KeawDHrUXK/view?usp=sharing">aqui<a> para baixar o jogo!<br>
 <a href="https://forms.gle/9VgjmxmRb2dHx7YE9">Questionário do jogo.</a>
 
 The Wanderer é um exergame com características de Action RPG, desenvolvido para a disciplina de 
@@ -34,3 +36,4 @@ e o meio onde vivem.<br><br>
 
 Por favor, responda o questionário sobre o jogo. Seu feedback é muito importante para este trabalho.<br>
 <a href="https://forms.gle/9VgjmxmRb2dHx7YE9">Clique aqui para responder o questionário!</a>
+Se preferir, baixe o jogo pelo Google Drive <a href="https://drive.google.com/file/d/1zQyW99cyOpHpISsoPjQP38KeawDHrUXK/view?usp=sharing">aqui!<a>
