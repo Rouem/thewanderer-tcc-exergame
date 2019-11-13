@@ -34,4 +34,4 @@ e o meio onde vivem.<br><br>
 
 Por favor, responda o questionário sobre o jogo. Seu feedback é muito importante para este trabalho.<br>
 <a href="https://forms.gle/9VgjmxmRb2dHx7YE9">Clique aqui para responder o questionário!</a>
-Se preferir, baixe o jogo pelo Google Drive <a href=" https://drive.google.com/file/d/1zQyW99cyOpHpISsoPjQP38KeawDHrUXK/view?usp=sharing">aqui!<a>
+Se preferir, baixe o jogo pelo Google Drive <a href="https://drive.google.com/file/d/1zQyW99cyOpHpISsoPjQP38KeawDHrUXK/view?usp=sharing">aqui!<a>
