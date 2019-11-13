@@ -11,10 +11,10 @@ Trabalho de Conclusão de Curso III, do Curso de Sistemas de Informação.
 
 <h3>IMAGENS:</h3><br>
 <div style="display: inline-grid;">
-<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Screenshot_2019-11-12-14-11-07.png" width="200" height="400" />
-<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Screenshot_2019-11-12-14-11-14.png" width="200" height="400" />
-<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Screenshot_2019-11-12-16-11-46.png" width="200" height="400" />
-<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Screenshot_2019-11-12-16-13-11.png" width="200" height="400" />
+<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Tittle.png" width="200" height="400" />
+<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Custom.png" width="200" height="400" />
+<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Map.png" width="200" height="400" />
+<img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/batGyro.png" width="200" height="400" />
 </div>
 
 <b>CONTEXTO:</b> Uma pesquisa da Universidade de Tóquio mostrou que o Pokémon GO fez grande sucesso por usar mecânicas inovadoras em sua jogabilidade que contribuíram para diminuição de fatores como depressão, fobias sociais e o sedentarismo1. O uso de jogos 
