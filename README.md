@@ -1,10 +1,10 @@
 <h1>THE WANDERER (Mobile Exergame) - TCC</h1><br><br>
 
+Clique <a href="https://github.com/Rouem/TheWanderer-TCC-/raw/master/TheWanderer.alphaDemo.apk">aqui</a> ou <a href="https://drive.google.com/file/d/1nDkpMZEKWlk4IDV4ZbTTbHrLUZx3mpxF/view?usp=sharing">aqui</a> para baixar o jogo! (Data de atualização: <b>15/11/2019 ás 13:57</b>)<br>
+<b>O formulário está dentro do jogo!</b><br>
+
 <b>Aluno:</b> Raphael Felipe do Vale Lucena.<br>
 <b>Orientador:</b> Prof. Francisco das Chagas Imperes Filho.<br>
-
-Clique <a href="https://github.com/Rouem/TheWanderer-TCC-/raw/master/TheWanderer.alphaDemo.apk">aqui</a> para baixar o jogo! (Data de atualização: <b>15/11/2019 ás 02:03</b>)<br>
-<b>O formulário está dentro do jogo!</b><br>
 
 The Wanderer é um exergame mobile com características de Action RPG, desenvolvido para Android como 
 Trabalho de Conclusão de Curso III, do Curso de Sistemas de Informação.<br>
