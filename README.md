@@ -1,4 +1,4 @@
-<h1>THE WANDERER (Mobile Exergame) - TCC</h1><br><br>
+<h1>THE WANDERER (Mobile Exergame) - TCC</h1>
 
 Clique <a href="https://github.com/Rouem/TheWanderer-TCC-/raw/master/TheWanderer.alphaDemo.apk">aqui</a> ou <a href="https://drive.google.com/file/d/1nDkpMZEKWlk4IDV4ZbTTbHrLUZx3mpxF/view?usp=sharing">aqui</a> para baixar o jogo! (Data de atualização: <b>15/11/2019 ás 13:57</b>)<br>
 <b>O formulário está dentro do jogo!</b><br>
