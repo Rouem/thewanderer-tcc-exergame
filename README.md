@@ -1,6 +1,7 @@
 <h1>THE WANDERER (Mobile Exergame) - TCC</h1>
 
-Clique <a href="https://github.com/Rouem/TheWanderer-TCC-/raw/master/TheWanderer.alphaDemo.apk">aqui</a> para baixar o jogo! (Data de atualização: <b>18/11/2019</b>)<br>
+<h2 style="color: red;"><a href="https://github.com/Rouem/TheWanderer-TCC-/raw/master/TheWanderer.alphaDemo.apk">DOWNLOAD AQUI!</a></h2><br>
+(Data de atualização: <b>21/11/2019</b>)<br>
 <b>O formulário está dentro do jogo!</b><br>
 
 <b>Aluno:</b> Raphael Felipe do Vale Lucena.<br>
