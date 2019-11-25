@@ -33,4 +33,4 @@ abandonar o sedentarismo.<br><br>
 <b>PROPOSTA:</b> Desenvolver um jogo mobile do gênero Exergame, que funcione como um motivador para a prática de atividades físicas (individual ou em grupo) e a interação social, utilizando sensores para captura de movimentos afim de detectar caminhadas como método principal para mensurar o progresso no jogo, contribuindo proporcionalmente no aumento da interatividade entre os jogadores 
 e o meio onde vivem.<br><br>
 
-Por favor, responda o questionário que se encontra dentro do jogo. Seu feedback é muito importante para este trabalho.<br>
+Seu feedback é muito importante para este trabalho.<br>
