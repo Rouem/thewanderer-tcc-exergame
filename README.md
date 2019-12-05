@@ -8,6 +8,8 @@
 The Wanderer é um exergame mobile com características de Action RPG, desenvolvido para Android como 
 Trabalho de Conclusão de Curso III, do Curso de Sistemas de Informação.<br>
 
+<h4>Link para API+Demo gratuíta <a href="https://github.com/Rouem/-API-WalkDetector-Unity">AQUI!</a></h4>
+
 <b>Features da demo:</b><br>
 Sistema de Dia & Noite em tempo real.<br>
 2 Cenários jogáveis.<br>
