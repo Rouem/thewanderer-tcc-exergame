@@ -10,13 +10,15 @@ Trabalho de Conclusão de Curso III, do Curso de Sistemas de Informação.<br>
 
 <h4>Link para API+Demo gratuíta <a href="https://github.com/Rouem/-API-WalkDetector-Unity">AQUI!</a></h4>
 
-<b>Features da demo:</b><br>
-Sistema de Dia & Noite em tempo real.<br>
-2 Cenários jogáveis.<br>
-2 IA's de inimigos.<br>
-Sistema de Save & Load.<br>
-Sistema de Customização do player.<br>
-
+<h3><b>Features da demo:</b></h3><br>
+<ul>
+<li>Sistema de Dia & Noite em tempo real.</li>
+<li>2 Cenários jogáveis.</li>
+<li>2 IA's de inimigos.</li>
+<li>Sistema de Save & Load.</li>
+<li>Sistema de Customização do player.</li>
+</ul>
+  
 <h3>IMAGENS:</h3><br>
 <div style="display: inline-grid;">
 <img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Tittle.png" width="200" height="400" />
