@@ -25,7 +25,9 @@ Trabalho de Conclusão de Curso III, do Curso de Sistemas de Informação.<br>
 <img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Custom.png" width="200" height="400" />
 <img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/Map.png" width="200" height="400" />
 <img src="https://github.com/Rouem/TheWanderer-TCC-/blob/master/Imagens/batGyro.png" width="200" height="400" />
-</div>
+</div><br>
+
+<h4>Assista uma gameplay do jogo, <a href="https://youtu.be/8VWFL2KbZJE">aqui!</a></h4>
 
 <b>CONTEXTO:</b> Uma pesquisa da Universidade de Tóquio mostrou que o Pokémon GO fez grande sucesso por usar mecânicas inovadoras em sua jogabilidade que contribuíram para diminuição de fatores como depressão, fobias sociais e o sedentarismo1. O uso de jogos 
 eletrônicos na área da saúde vem ganhando destaque por sua empregabilidade em diversas situações. No cenário citado, a busca 
