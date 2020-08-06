@@ -1,17 +1,26 @@
 <h1>THE WANDERER (O Andarilho) - Mobile Exergame</h1>
 
 <h2 style="color: red;"><a href="https://github.com/Rouem/thewanderer-tcc-exergame/raw/master/The_Wanderer.apk">DOWNLOAD AQUI!</a></h2>(Data de atualização: <b>20/06/2020</b>)<br><br>
-<a href="https://github.com/Rouem/TheWanderer-TCC-/raw/master/TheWanderer.alphaDemo.apk">Antiga demo(25/11/2019)</a><br>
 
+<h4>Em Desenvolvimento</h4><br>
 <b>Aluno:</b> Raphael Felipe do Vale Lucena.<br>
 <b>Orientador:</b> Prof. Francisco das Chagas Imperes Filho.<br>
 
 The Wanderer é um exergame mobile com características de Action RPG, desenvolvido para Android como 
 Trabalho de Conclusão de Curso III, do Curso de Sistemas de Informação.<br>
 
+<h3><b>Features da demo:</b></h3><br>
+<ul>
+<li>2 Cenários jogáveis.</li>
+<li>4 obstáculos.</li>
+<li>Sistema de Save & Load.</li>
+<li>Sistema de Customização do player.</li>
+<li>2 modos de jogo.</li>
+</ul>
 <h4>Link para API+Demo gratuíta <a href="https://github.com/Rouem/-API-WalkDetector-Unity">AQUI!</a></h4>
 
-<h3><b>Features da demo:</b></h3><br>
+<a href="https://github.com/Rouem/TheWanderer-TCC-/raw/master/TheWanderer.alphaDemo.apk">Antiga demo(25/11/2019)</a><br>
+<h3><b>Features da demo(Antiga):</b></h3><br>
 <ul>
 <li>Sistema de Dia & Noite em tempo real.</li>
 <li>2 Cenários jogáveis.</li>
@@ -27,7 +36,7 @@ Trabalho de Conclusão de Curso III, do Curso de Sistemas de Informação.<br>
 <img src="https://github.com/Rouem/thewanderer-tcc-exergame/blob/master/Imagens/peace.PNG" width="700" height="400" />
 </div><br>
 
-<h4>Assista uma gameplay do jogo, <a href="https://youtu.be/8VWFL2KbZJE">aqui!</a></h4>
+<h4>Assista uma gameplay do jogo, <a href="https://youtu.be/8VWFL2KbZJE">aqui!</a>(Demo antiga)</h4>
 
 <b>CONTEXTO:</b> Uma pesquisa da Universidade de Tóquio mostrou que o Pokémon GO fez grande sucesso por usar mecânicas inovadoras em sua jogabilidade que contribuíram para diminuição de fatores como depressão, fobias sociais e o sedentarismo1. O uso de jogos 
 eletrônicos na área da saúde vem ganhando destaque por sua empregabilidade em diversas situações. No cenário citado, a busca 
