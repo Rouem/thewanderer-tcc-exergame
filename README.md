@@ -1,6 +1,6 @@
 <h1>THE WANDERER (O Andarilho) - Mobile Exergame</h1>
 
-<h2 style="color: red;"><a href="https://github.com/Rouem/thewanderer-tcc-exergame/raw/master/The_Wanderer.apk">DOWNLOAD AQUI!</a></h2>(Data de atualização: <b>20/06/2020</b>)<br><br>
+<h2 style="color: red;"><a href="https://github.com/Rouem/thewanderer-tcc-exergame/raw/master/The_Wanderer.apk">DOWNLOAD AQUI!</a></h2>(Data de atualização: <b>20/06/2020</b>)
 
 <h4>Em Desenvolvimento</h4><br>
 <b>Aluno:</b> Raphael Felipe do Vale Lucena.<br>
