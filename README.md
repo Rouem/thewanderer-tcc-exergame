@@ -22,7 +22,7 @@ Trabalho de Conclusão de Curso III, do Curso de Sistemas de Informação.<br>
   
 <h3>IMAGENS:</h3><br>
 <div style="display: inline-grid;">
-<img src="https://github.com/Rouem/thewanderer-tcc-exergame/blob/master/Imagens/Tittle.PNG" width="300" height="400" />
+<img src="https://github.com/Rouem/thewanderer-tcc-exergame/blob/master/Imagens/Tittle.PNG" width="250" height="400" />
 <img src="https://github.com/Rouem/thewanderer-tcc-exergame/blob/master/Imagens/scenaries.png" width="400" height="400" /><br>
 <img src="https://github.com/Rouem/thewanderer-tcc-exergame/blob/master/Imagens/peace.PNG" width="700" height="400" />
 </div><br>
